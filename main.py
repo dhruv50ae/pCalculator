@@ -41,7 +41,6 @@ def calculator():
             num1 = answer
         else:
             shouldContinue = False
-            calculator()
 
 
 calculator()
